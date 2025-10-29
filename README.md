@@ -1,16 +1,24 @@
 # Game-Theory-Based-Investigation-and-Modeling-of-the-Liver-Transplantation-Process
-🎯 Objective
+🎯 Objectives
 
-To explore how game theory can model and optimize the liver transplantation process, focusing on decision-making dynamics between donors, recipients, and medical authorities. The goal was to analyze fairness, efficiency, and ethical balance through theoretical modeling and structured scientific writing.
+Modeled the liver transplantation process through game theory to study decision-making between donors, recipients, and medical authorities.
 
-🧰 Tools & Technologies
+Aimed to explore fairness, ethical considerations, and efficiency within organ allocation systems.
 
-LaTeX – for professional academic writing and mathematical notation
+Focused on bridging biological systems with mathematical and strategic models.
 
-Beamer – for presentation formatting and visual communication
+⚙️ Tools & Technologies
 
-Xepersian – for Persian text typesetting and localization support
+LaTeX for academic paper writing and equation formatting.
+
+Beamer for presentation design and research visualization.
+
+Xepersian for Persian typesetting and localization.
 
 📊 Results
 
-Produced a semi-formal research paper collaboratively with two classmates, presenting a structured framework that applies game-theoretic models to the transplantation decision process. The project improved our understanding of strategic modeling in biomedical systems and strengthened our academic writing and LaTeX composition skills.
+Co-authored a semi-formal research paper as part of a group of three students.
+
+Developed a structured analytical framework applying game theory to medical decision-making.
+
+Strengthened teamwork, scientific writing, and LaTeX proficiency through real-world academic collaboration.
