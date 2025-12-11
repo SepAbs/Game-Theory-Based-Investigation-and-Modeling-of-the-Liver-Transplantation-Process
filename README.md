@@ -1,4 +1,4 @@
-# Game-Theory-Based-Investigation-and-Modeling-of-the-Liver-Transplantation-Process
+# Game-Theory-based-Investigation-and-Modeling-of-the-Liver-Transplantation-Process
 🎯 Objectives
 
 Modeled the liver transplantation process through game theory to study decision-making between donors, recipients, and medical authorities.
